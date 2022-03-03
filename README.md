@@ -28,24 +28,24 @@ TOOL DEVOLPED BY HAMMAS AHMAD WEB DEVELOPER.
 
 🚀INSTALLATION METHOD🚀
 
-😈 'apt update && upgrade'
+😈 `apt update && upgrade`
 
-😈 pkg install python2
+😈 `pkg install python2`
 
-😈 pkg install git
+😈 `pkg install git`
 
-😈 pip2 install requests
+😈 `pip2 install requests`
 
-😈 pip2 install mechanize
+😈 `pip2 install mechanize`
 
-😈 git clone https://github.com/hmhtech/hammas
+😈 `git clone https://github.com/hmhtech/hammas`
 
-😈 cd hammas
+😈 `cd hammas`
 
-😈 python2 hmh
+😈 `python2 hmh`
 
-😈 UserName=Hammas
+😈 UserName=`Hammas`
 
-😈UserPassword=King
+😈UserPassword=`King`
 
 Now start Fastest Cloning fb Account without login 2022 Working Command
